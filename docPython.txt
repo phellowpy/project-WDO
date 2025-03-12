@@ -1,0 +1,46 @@
+cadastro []
+
+nome_completo = 'Rogério Cardoso'
+CPF = 64578912390
+genero = 'Homem','Mulher','Outros'
+data_nascimento = 12082000 
+telefone_celular = 5541934572474
+email = 'batatinha123@gmail.com'
+cadastrar_senha = '348723hugweruiwe'
+
+login []
+
+email = 'batatinha123@gmail.com'
+senha = '348723hugweruiwe'
+
+conta []
+
+id_usuario = 456546645
+nome = 'Rogério Cardoso'
+email = 'batatinha123@gmail.com'
+senha = '348723hugweruiwe'
+tipos_de_usuario = 'free_lancer','empresa'
+telefone = 5541934572474
+endereco = 'rua taltal, bairro mimi 234' 
+data_criacao = 12052024
+bio = 'oi meu nome e rogerio'
+portifolio = 'eu trabalho fazendo icones para empresas'
+status_da_conta = 'ativo'
+foto_perfil = 'foto.png'
+
+chats []
+
+id_chat = 12312312132
+usuario = 'rogerio'
+mensagem = 'oi tudo bem'
+horario_da_mensagem = 125534
+status = 'online'
+tipo_de_mensagem = 'texto'
+
+desing []
+
+id_desing = 8734897432
+criador = 'rogerio'
+titulo = 'icone mimi pororo'
+descricao = 'esse e uma foto de perfil para a empresa tal'
+categoria = 'icone'
