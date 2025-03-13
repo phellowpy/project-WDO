@@ -44,3 +44,24 @@ criador = 'rogerio'
 titulo = 'icone mimi pororo'
 descricao = 'esse e uma foto de perfil para a empresa tal'
 categoria = 'icone'
+preco = 43.31
+resolucao = '1080p'
+formato = 'img'
+tags = 'icone azul'
+data_criacao = 120924
+status = 'enviado'
+url = 'deisgne.com'
+
+pedido []
+
+id_pedido = 23131221
+id_desing = 8655674
+cliente = 'marcia'
+criador = 'junio'
+valor = 213,32
+forma_de_pagamento = 'pix'
+status_do_pedido = 'enviado'
+data_do_pedido = 230424
+link_para_download = 'download_23423.png'
+comprovante = 'aprovado'
+
